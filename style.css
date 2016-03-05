@@ -1,0 +1,57 @@
+.fruitTable td{
+    padding: 10px 10px 10px 10px;
+}
+.fruit-bin{
+    display: inline-block;
+    margin:0 auto;
+}
+.fruit{
+  display:inline-block;
+  margin:0 auto;
+}
+
+.buy{
+  margin-top: 10px
+}
+.writing{
+  margin-top: 100px
+}
+.fruitapple {
+    width: 200px;
+    height: 200px;
+    background-image: url("apple.png");
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+    color: pink;
+
+}
+.fruitbanana {
+    width: 200px;
+    height: 200px;
+    background-image: url("bananas.png");
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+    color: orange;
+
+}
+.fruitpear {
+    width: 200px;
+    height: 200px;
+    background-image: url("pear.png");
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+    color: orange;
+
+}
+.fruitorange {
+    width: 200px;
+    height: 200px;
+    background-image: url("orange.png");
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+    color: orange;
+
+}
+.sell{
+
+}
